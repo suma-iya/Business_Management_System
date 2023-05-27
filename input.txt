@@ -1,0 +1,4 @@
+Worker Abdul_Gaffer Morning 2016 5000
+Worker Abdur_Rahim Night 2017 4500
+Supervisor Majidur_Rahman Evening 2003 6000
+Manager Gazi_Jashim Evening 1999 6000

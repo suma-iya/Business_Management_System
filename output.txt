@@ -1,0 +1,27 @@
+Worker: 
+Name: Abdul_Gaffer
+Shift: Morning
+Worker-id: 2016
+Salary: 5000tk
+
+Worker: 
+Name: Abdur_Rahim
+Shift: Night
+Worker-id: 2017
+Salary: 4500tk
+
+Supervisor: 
+Name: Majidur_Rahman
+Shift: Evening
+Worker-id: 2003
+Salary: 6000tk
+Bonus: 200
+
+Manager: 
+Name: Gazi_Jashim
+Shift: Evening
+Worker-id: 1999
+Salary: 6000tk
+Bonus: 500
+
+Total Salary: 21500
