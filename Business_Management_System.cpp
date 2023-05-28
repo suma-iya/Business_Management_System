@@ -157,6 +157,9 @@ int main() {
 
             cout << "Worker id: ";
             cin >> worker_id;
+            
+            cout << "Salary: ";
+            cin >> salary;
 
             if(button == 1){
                 All_Workers.push_back(new Worker(tag, name, shift, worker_id, salary));
